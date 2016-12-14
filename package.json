@@ -1,7 +1,7 @@
 {
   "name": "nconf-json",
-  "version": "0.1.0",
-  "description": "json format plugin for nconf",
+  "version": "0.1.1",
+  "description": "json format plugin for nconf, add JSON.minify support",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
