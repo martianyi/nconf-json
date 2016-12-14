@@ -1,0 +1,26 @@
+{
+  "name": "nconf-json",
+  "version": "0.1.0",
+  "description": "json format plugin for nconf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martianyi/nconf-json.git"
+  },
+  "keywords": [
+    "nconf",
+    "json"
+  ],
+  "author": "Yi Kai <beliefs111@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martianyi/nconf-json/issues"
+  },
+  "homepage": "https://github.com/martianyi/nconf-json#readme",
+  "dependencies": {
+    "node-json-minify": "^1.0.0"
+  }
+}

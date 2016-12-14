@@ -1,10 +1,11 @@
 # nconf-json
 
-JSON format plugin for [indexzero/nconf](https://github.com/indexzero/nconf)
+JSON format plugin for [indexzero/nconf](https://github.com/indexzero/nconf), 
+add JSON.minify support so you can add comments in json files.
 
 ## Install
 
-`npm install nconf nconf-json`
+`npm install nconf nconf-json --save`
 
 ## Usage
 
