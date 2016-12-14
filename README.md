@@ -13,7 +13,7 @@ add JSON.minify support so you can add comments in json files.
 var nconf = require('nconf')
 
 nconf.file({
-  file: '/path/to/some/file.yaml',
+  file: '/path/to/some/file.json',
   format: require('nconf-json')
 })
 ```
